@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Amir 👋
+
+- 🔭 Aeronautical Engineering graduate
+- 👨‍💻 Currently learning iOS & web3 development
+- 📫 You can reach me via e-mail
 
 <!--
 **atobz/atobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
