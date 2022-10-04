@@ -2,7 +2,7 @@
 
 - 🔭 Aeronautical Engineering graduate
 - 👨‍💻 Currently learning iOS & web3 development
-- 📫 You can reach me via e-mail
+- 📫 You can reach me via e-mail: a.tobatayev@gmail.com 
 
 <!--
 **atobz/atobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
